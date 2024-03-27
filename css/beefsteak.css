@@ -1,0 +1,215 @@
+.recipe-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8ae57;
+  width: 108.625rem;
+  height: 9.938rem;
+}
+.image-27-icon {
+  position: absolute;
+  top: 12.5rem;
+  left: 51.5rem;
+  width: 55.5rem;
+  height: 46.625rem;
+  object-fit: cover;
+}
+.beef-steak {
+  position: absolute;
+  top: 15.875rem;
+  left: 5.625rem;
+  font-size: 8rem;
+  font-weight: 600;
+}
+.a-beefsteak-often-called {
+  position: absolute;
+  top: 0;
+  left: 0;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 40rem;
+}
+.a-beefsteak-often-called-just-wrapper {
+  position: absolute;
+  top: 25.688rem;
+  left: 5.625rem;
+  width: 40rem;
+  height: 30rem;
+}
+.ingredients {
+  position: absolute;
+  top: 0;
+  left: 2rem;
+  font-weight: 600;
+}
+.pounds-new-york-strip {
+  margin-bottom: false;
+}
+.pounds-new-york-strip-steak-s {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 1.344rem;
+}
+.pounds-new-york-strip-container {
+  position: absolute;
+  top: 3.75rem;
+  left: 0;
+  display: inline-block;
+  width: 43.75rem;
+  height: 24.5rem;
+}
+.ingredients-parent {
+  position: absolute;
+  top: 69.438rem;
+  left: 4.25rem;
+  width: 43.75rem;
+  height: 28.25rem;
+}
+.procedure,
+.step-1,
+.step-2 {
+  position: absolute;
+  font-weight: 600;
+}
+.procedure {
+  top: 0;
+  left: 0.813rem;
+}
+.step-1,
+.step-2 {
+  top: 6.125rem;
+  left: 0;
+}
+.step-2 {
+  top: 30.813rem;
+}
+.place-sliced-beef {
+  margin: 0;
+}
+.heat-vegetable-oil-container,
+.place-sliced-beef-container {
+  position: absolute;
+  top: 11.063rem;
+  left: 0;
+  font-size: 2rem;
+  display: inline-block;
+  width: 40rem;
+}
+.heat-vegetable-oil-container {
+  top: 35.313rem;
+}
+.step-3 {
+  position: absolute;
+  top: 43.063rem;
+  left: 0;
+  font-weight: 600;
+}
+.remove-beef-slices-container {
+  position: absolute;
+  top: 47.563rem;
+  left: 0;
+  font-size: 2rem;
+  display: inline-block;
+  width: 40rem;
+}
+.step-4 {
+  position: absolute;
+  top: 58.563rem;
+  left: 0.813rem;
+  font-weight: 600;
+}
+.working-in-batches-container {
+  top: 62.5rem;
+  font-size: 2rem;
+  display: inline-block;
+  width: 40rem;
+}
+.heat-olive-oil,
+.step-5,
+.working-in-batches-container {
+  position: absolute;
+  left: 0.813rem;
+}
+.step-5 {
+  top: 79.75rem;
+  font-weight: 600;
+}
+.heat-olive-oil {
+  top: 84.25rem;
+  font-size: 2rem;
+  display: inline-block;
+  width: 40rem;
+}
+.procedure-parent {
+  position: absolute;
+  top: 69.438rem;
+  left: 58.813rem;
+  width: 40.813rem;
+  height: 99.25rem;
+  font-size: 3rem;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background: linear-gradient(
+    110.72deg,
+    rgba(255, 255, 255, 0.36),
+    rgba(196, 196, 196, 0.06)
+  );
+  backdrop-filter: blur(30px);
+  border: 3px solid rgba(255, 255, 255, 0.7);
+  box-sizing: border-box;
+  width: 20.25rem;
+  height: 7.875rem;
+}
+.prep-time-15-minutes-cook-tim {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 1.333rem;
+}
+.prep-time-15-container {
+  position: absolute;
+  top: 1.5rem;
+  left: 0;
+  display: inline-block;
+  width: 43.75rem;
+  height: 24.5rem;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 109.938rem;
+  left: 6.25rem;
+  width: 43.75rem;
+  height: 26rem;
+  font-size: 1.5rem;
+}
+.image-28-icon,
+.unigrub-1-icon {
+  position: absolute;
+  top: 119.188rem;
+  left: 5.625rem;
+  width: 49.875rem;
+  height: 49.5rem;
+  object-fit: cover;
+}
+.unigrub-1-icon {
+  top: -7.562rem;
+  left: 43rem;
+  width: 22.625rem;
+  height: 25rem;
+}
+.recipe-1 {
+  width: 100%;
+  height: 174.438rem;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  text-align: left;
+  font-size: 2rem;
+  color: #000;
+  font-family: Poppins;
+}

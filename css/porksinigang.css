@@ -1,0 +1,159 @@
+.recipe-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8ae57;
+  width: 108.625rem;
+  height: 9.938rem;
+}
+.image-16-icon {
+  position: absolute;
+  top: 14.063rem;
+  left: 13.5rem;
+  width: 82.5rem;
+  height: 34.75rem;
+  object-fit: cover;
+}
+.pork,
+.sinigang {
+  position: absolute;
+  top: 37.438rem;
+  left: 38.063rem;
+  font-size: 11.25rem;
+  font-weight: 600;
+  color: #fff;
+  display: inline-block;
+  width: 30.375rem;
+  height: 13.125rem;
+}
+.sinigang {
+  top: 45.063rem;
+  left: 35.125rem;
+  font-size: 8rem;
+  color: #f8ae57;
+  width: 36.188rem;
+  height: 11.063rem;
+}
+.sinigang-is-a {
+  margin: 0;
+}
+.sinigang-comes-from-container,
+.sinigang-is-a-container {
+  position: absolute;
+  top: 62.5rem;
+  left: 12.375rem;
+  text-align: center;
+  display: inline-block;
+  width: 84.75rem;
+}
+.sinigang-comes-from-container {
+  top: 79.563rem;
+  left: 62.063rem;
+  width: 33rem;
+}
+.recipe-3-item {
+  position: absolute;
+  top: 108.375rem;
+  left: 66.438rem;
+  border-radius: 20px;
+  background: linear-gradient(
+    110.72deg,
+    rgba(255, 255, 255, 0.36),
+    rgba(196, 196, 196, 0.06)
+  );
+  backdrop-filter: blur(30px);
+  border: 3px solid rgba(255, 255, 255, 0.7);
+  box-sizing: border-box;
+  width: 22.438rem;
+  height: 13.188rem;
+}
+.prep-15-minutes-container {
+  position: absolute;
+  top: 112rem;
+  left: 69.188rem;
+  font-weight: 600;
+}
+.ingredients2 {
+  margin: 0;
+  font-weight: 600;
+}
+.lbs-pork-belly {
+  margin-bottom: false;
+}
+.lbs-pork-belly-1-lb-young-ta {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 1.344rem;
+}
+.ingredients-2-lbs-pork-container {
+  position: absolute;
+  top: 125.313rem;
+  left: 54.75rem;
+  text-align: right;
+  display: inline-block;
+  width: 44.25rem;
+}
+.instructions-combine-chicken-container1 {
+  position: absolute;
+  top: 169.875rem;
+  left: 9.563rem;
+  display: inline-block;
+  width: 43.938rem;
+}
+.image-19-icon,
+.image-20-icon,
+.image-21-icon {
+  position: absolute;
+  top: 127.188rem;
+  left: 29.938rem;
+  width: 20.563rem;
+  height: 18.188rem;
+  object-fit: cover;
+}
+.image-20-icon,
+.image-21-icon {
+  top: 145.688rem;
+  left: 10.375rem;
+  width: 40.125rem;
+  height: 19.438rem;
+}
+.image-21-icon {
+  top: 173.563rem;
+  left: 56.688rem;
+  width: 42.313rem;
+  height: 79.5rem;
+}
+.image-17-icon,
+.image-18-icon,
+.unigrub-3-icon {
+  position: absolute;
+  top: 77.438rem;
+  left: 10.25rem;
+  width: 44.625rem;
+  height: 43.688rem;
+  object-fit: cover;
+}
+.image-18-icon,
+.unigrub-3-icon {
+  top: 127.188rem;
+  left: 10.438rem;
+  width: 19.313rem;
+  height: 18.125rem;
+}
+.unigrub-3-icon {
+  top: -7.562rem;
+  left: 41.938rem;
+  width: 22.625rem;
+  height: 25rem;
+}
+.recipe-3 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 261rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 2rem;
+  color: #000;
+  font-family: Poppins;
+}

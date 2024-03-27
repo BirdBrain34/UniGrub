@@ -1,0 +1,154 @@
+.the-savory-umami-combination {
+  position: absolute;
+  top: 56rem;
+  left: 4.35rem;
+  display: inline-block;
+  width: 99.931rem;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8ae57;
+  width: 108.625rem;
+  height: 9.938rem;
+}
+.image-7-icon {
+  position: absolute;
+  top: 104rem;
+  left: 4.719rem;
+  width: 55.344rem;
+  height: 18.875rem;
+  object-fit: cover;
+}
+.group-inner {
+  position: absolute;
+  top: 139.063rem;
+  left: 68.313rem;
+  border-radius: 20px;
+  background: linear-gradient(
+    110.72deg,
+    rgba(255, 255, 255, 0.36),
+    rgba(196, 196, 196, 0.06)
+  );
+  backdrop-filter: blur(30px);
+  border: 3px solid rgba(255, 255, 255, 0.7);
+  box-sizing: border-box;
+  width: 26.456rem;
+  height: 13.188rem;
+}
+.image-4-icon,
+.image-6-icon,
+.image-8-icon {
+  position: absolute;
+  top: 169.938rem;
+  left: 7.294rem;
+  width: 40.531rem;
+  height: 43.563rem;
+  object-fit: cover;
+}
+.image-4-icon,
+.image-6-icon {
+  top: 15.375rem;
+  left: 4.569rem;
+  width: 99.413rem;
+  height: 35.063rem;
+}
+.image-6-icon {
+  top: 81.313rem;
+  left: 60.356rem;
+  width: 44.363rem;
+  height: 41.313rem;
+}
+.chicken-adobo {
+  position: absolute;
+  top: 26.875rem;
+  left: 16.431rem;
+  font-size: 8rem;
+  font-weight: 600;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  width: 73.181rem;
+}
+.the-savory-umami-combination-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 108.625rem;
+  height: 213.5rem;
+  text-align: center;
+}
+.image-5-icon {
+  position: absolute;
+  top: 81.313rem;
+  left: 3.875rem;
+  width: 47.063rem;
+  height: 22.063rem;
+  object-fit: cover;
+}
+.knorr-chicken-cube {
+  margin-bottom: false;
+}
+.lbs-chicken-cut-into-serving {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 1.344rem;
+}
+.ingredients-2-lbs-chicken-cut {
+  position: absolute;
+  top: 128.188rem;
+  left: 5.063rem;
+}
+.prep-14-minutes {
+  margin: 0;
+}
+.prep-14-minutes-container {
+  position: absolute;
+  top: 142.375rem;
+  left: 60.813rem;
+  font-weight: 600;
+}
+.instructions {
+  margin: 0;
+  font-weight: 600;
+}
+.instructions-combine-chicken-container {
+  position: absolute;
+  top: 166.313rem;
+  left: 55.375rem;
+  display: inline-block;
+  width: 47.125rem;
+}
+.image-9-icon,
+.recipe-2-child,
+.unigrub-2-icon {
+  position: absolute;
+  top: 214rem;
+  left: 6.313rem;
+  width: 17.313rem;
+  height: 18.938rem;
+  object-fit: cover;
+}
+.recipe-2-child,
+.unigrub-2-icon {
+  left: 23.625rem;
+  width: 17rem;
+}
+.unigrub-2-icon {
+  top: -7.562rem;
+  left: 43rem;
+  width: 22.625rem;
+  height: 25rem;
+}
+.recipe-2 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 258rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 2rem;
+  color: #000;
+  font-family: Poppins;
+}

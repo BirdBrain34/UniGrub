@@ -1,0 +1,131 @@
+.recipe-4-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8ae57;
+  width: 108.625rem;
+  height: 9.938rem;
+}
+.pancit-canton-it {
+  position: absolute;
+  top: 55.813rem;
+  left: 28.188rem;
+  display: inline-block;
+  width: 52.875rem;
+}
+.image-22-icon {
+  position: absolute;
+  top: 13.188rem;
+  left: 13.688rem;
+  width: 80.688rem;
+  height: 37.188rem;
+  object-fit: cover;
+}
+.canton,
+.pancit {
+  position: absolute;
+  top: 41.5rem;
+  left: 64.5rem;
+  font-size: 8rem;
+  font-weight: 600;
+  color: #f8ae57;
+  text-align: left;
+  display: inline-block;
+  width: 36.188rem;
+  height: 11.063rem;
+}
+.pancit {
+  top: 9.938rem;
+  left: 13.125rem;
+  color: #fff;
+  width: 37.813rem;
+  height: 13.125rem;
+}
+.ingredients3 {
+  margin: 0;
+}
+.span {
+  font-weight: 600;
+  font-family: Poppins;
+}
+.grams-flour-stick-noodles {
+  margin-bottom: false;
+}
+.onion1 {
+  text-decoration: underline;
+}
+.onion {
+  color: inherit;
+}
+.grams-flour-stick-noodles-4-ou {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 1.344rem;
+}
+.ingredients-250-grams-flour-s-container {
+  position: absolute;
+  top: 79.625rem;
+  left: 10.375rem;
+  display: inline-block;
+  width: 44.25rem;
+}
+.instructions2 {
+  margin: 0;
+  font-weight: 600;
+}
+.instructions-place-2-container {
+  position: absolute;
+  top: 136.563rem;
+  left: 10.938rem;
+  display: inline-block;
+  width: 40.813rem;
+  height: 80.938rem;
+}
+.image-23-icon {
+  position: absolute;
+  top: 79.875rem;
+  left: 55.563rem;
+  width: 42.688rem;
+  height: 50.5rem;
+  object-fit: cover;
+}
+.image-24-icon,
+.image-25-icon,
+.image-26-icon,
+.unigrub-4-icon {
+  position: absolute;
+  top: 130.625rem;
+  left: 76.938rem;
+  width: 21.313rem;
+  height: 35.125rem;
+  object-fit: cover;
+}
+.image-24-icon,
+.image-26-icon,
+.unigrub-4-icon {
+  left: 55.875rem;
+  width: 21.063rem;
+}
+.image-26-icon,
+.unigrub-4-icon {
+  top: 166.125rem;
+  width: 42.375rem;
+  height: 56.625rem;
+}
+.unigrub-4-icon {
+  top: -6.25rem;
+  left: 44.563rem;
+  width: 22.625rem;
+  height: 25rem;
+}
+.recipe-4 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 229.688rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 2rem;
+  color: #000;
+  font-family: Poppins;
+}

@@ -69,8 +69,39 @@
   <ItemGroup>
     <Content Include="AddRecipe.aspx" />
     <Content Include="Admin.aspx" />
+    <Content Include="adobo.aspx" />
+    <Content Include="assets\public\group-1%402x.png" />
+    <Content Include="assets\public\image-16%402x.png" />
+    <Content Include="assets\public\image-17%402x.png" />
+    <Content Include="assets\public\image-18%402x.png" />
+    <Content Include="assets\public\image-19%402x.png" />
+    <Content Include="assets\public\image-20%402x.png" />
+    <Content Include="assets\public\image-21%402x.png" />
+    <Content Include="assets\public\image-22%402x.png" />
+    <Content Include="assets\public\image-23%402x.png" />
+    <Content Include="assets\public\image-24%402x.png" />
+    <Content Include="assets\public\image-25%402x.png" />
+    <Content Include="assets\public\image-26%402x.png" />
+    <Content Include="assets\public\image-27%402x.png" />
+    <Content Include="assets\public\image-28%402x.png" />
+    <Content Include="assets\public\image-4%402x.png" />
+    <Content Include="assets\public\image-5%402x.png" />
+    <Content Include="assets\public\image-6%402x.png" />
+    <Content Include="assets\public\image-7%402x.png" />
+    <Content Include="assets\public\image-8%402x.png" />
+    <Content Include="assets\public\image-9%402x.png" />
+    <Content Include="assets\public\unigrub-1%402x.png" />
+    <Content Include="assets\public\unigrub-3%402x.png" />
+    <Content Include="beefsteak.aspx" />
+    <Content Include="css\global.css" />
+    <Content Include="css\beefsteak.css" />
     <Content Include="css\main.css" />
+    <Content Include="css\adobo.css" />
+    <Content Include="css\porksinigang.css" />
+    <Content Include="css\pancit.css" />
     <Content Include="Home.aspx" />
+    <Content Include="pancit.aspx" />
+    <Content Include="porksinigang.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -95,12 +126,40 @@
     <Compile Include="Admin.Master.designer.cs">
       <DependentUpon>Admin.Master</DependentUpon>
     </Compile>
+    <Compile Include="adobo.aspx.cs">
+      <DependentUpon>adobo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adobo.aspx.designer.cs">
+      <DependentUpon>adobo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="beefsteak.aspx.cs">
+      <DependentUpon>beefsteak.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="beefsteak.aspx.designer.cs">
+      <DependentUpon>beefsteak.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pancit.aspx.cs">
+      <DependentUpon>pancit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pancit.aspx.designer.cs">
+      <DependentUpon>pancit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="porksinigang.aspx.cs">
+      <DependentUpon>porksinigang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="porksinigang.aspx.designer.cs">
+      <DependentUpon>porksinigang.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

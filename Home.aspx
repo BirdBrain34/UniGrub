@@ -55,28 +55,28 @@
       <!-- recipes list -->
       <div class="recipes-list">
         <!-- single recipe -->
-        <a href="single-recipe.html" class="recipe">
+        <a href="pancit.aspx" class="recipe">
           <img src="./assets/recipes/recipe-1.jpeg" class="img recipe-img" alt="" />
           <h5>Pancit Canton</h5>
           <p>Prep : 15min | Cook : 5min</p>
         </a>
         <!-- end of single recipe -->
         <!-- single recipe -->
-        <a href="single-recipe.html" class="recipe">
+        <a href="beefsteak.aspx" class="recipe">
           <img src="./assets/recipes/recipe-2.jpeg" class="img recipe-img" alt="" />
           <h5>Beef Steak</h5>
           <p>Prep : 15min | Cook : 5min</p>
         </a>
         <!-- end of single recipe -->
         <!-- single recipe -->
-        <a href="single-recipe.html" class="recipe">
+        <a href="porksinigang.aspx" class="recipe">
           <img src="./assets/recipes/recipe-3.jpeg" class="img recipe-img" alt="" />
           <h5>Pork Sinigang</h5>
           <p>Prep : 15min | Cook : 5min</p>
         </a>
         <!-- end of single recipe -->
         <!-- single recipe -->
-        <a href="single-recipe.html" class="recipe">
+        <a href="adobo.aspx" class="recipe">
           <img src="./assets/recipes/recipe-4.jpeg" class="img recipe-img" alt="" />
           <h5>Chicken Adobo</h5>
           <p>Prep : 15min | Cook : 5min</p>
