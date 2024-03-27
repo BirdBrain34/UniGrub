@@ -6,7 +6,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>College Cooking Recipes</title>   
+  <title>UniGrub</title>   
   <!-- main css -->
   <link rel="stylesheet" href="./css/main.css" />
 </head>
@@ -15,7 +15,7 @@
   <nav class="navbar">
     <div class="nav-center">
       <div class="nav-header">
-        <a href="Home.aspx" class="nav-logo">College Cooking Recipes</a>
+        <a href="Home.aspx" class="nav-logo">UniGrub</a>
       </div>
       <div class="nav-links">
         <a href="Home.aspx" class="nav-link">home</a>
