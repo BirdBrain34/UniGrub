@@ -1,42 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\",
+  "WorkspaceRootPath": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\UniGrub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\UniGrub\\css\\beefsteak.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:css\\beefsteak.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|c:\\users\\erik\\desktop\\unigrub-main\\unigrub-main\\pancit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:pancit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|c:\\users\\erik\\desktop\\unigrub-main\\unigrub-main\\pancit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:pancit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|c:\\users\\erik\\desktop\\unigrub-main\\unigrub-main\\porksinigang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:porksinigang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|c:\\users\\erik\\desktop\\unigrub-main\\unigrub-main\\beefsteak.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:beefsteak.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|c:\\users\\erik\\desktop\\unigrub-main\\unigrub-main\\adobo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:adobo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\addrecipe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:addrecipe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|c:\\users\\erik\\desktop\\unigrub-main\\unigrub-main\\addrecipe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:addrecipe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\UniGrub\\css\\adobo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:css\\adobo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +18,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pancit.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\pancit.aspx.cs",
-              "RelativeDocumentMoniker": "pancit.aspx.cs",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\pancit.aspx.cs",
-              "RelativeToolTip": "pancit.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T04:24:18.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "pancit.aspx",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\pancit.aspx",
-              "RelativeDocumentMoniker": "pancit.aspx",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\pancit.aspx",
-              "RelativeToolTip": "pancit.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-28T04:16:24.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "porksinigang.aspx",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\porksinigang.aspx",
-              "RelativeDocumentMoniker": "porksinigang.aspx",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\porksinigang.aspx",
-              "RelativeToolTip": "porksinigang.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-28T04:12:16.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "beefsteak.aspx",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\beefsteak.aspx",
-              "RelativeDocumentMoniker": "beefsteak.aspx",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\beefsteak.aspx",
-              "RelativeToolTip": "beefsteak.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-28T04:08:45.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "adobo.aspx",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\adobo.aspx",
-              "RelativeDocumentMoniker": "adobo.aspx",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\adobo.aspx",
-              "RelativeToolTip": "adobo.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-28T04:03:11.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\Home.aspx",
-              "RelativeDocumentMoniker": "Home.aspx",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\Home.aspx",
-              "RelativeToolTip": "Home.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-26T17:26:37.102Z",
+              "Title": "beefsteak.css",
+              "DocumentMoniker": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\UniGrub\\css\\beefsteak.css",
+              "RelativeDocumentMoniker": "css\\beefsteak.css",
+              "ToolTip": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\UniGrub\\css\\beefsteak.css",
+              "RelativeToolTip": "css\\beefsteak.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T17:14:17.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddRecipe.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\AddRecipe.aspx.cs",
-              "RelativeDocumentMoniker": "AddRecipe.aspx.cs",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\AddRecipe.aspx.cs",
-              "RelativeToolTip": "AddRecipe.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:15:06.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddRecipe.aspx",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\AddRecipe.aspx",
-              "RelativeDocumentMoniker": "AddRecipe.aspx",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\AddRecipe.aspx",
-              "RelativeToolTip": "AddRecipe.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-26T17:11:24.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Admin.Master.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\Admin.Master.cs",
-              "RelativeDocumentMoniker": "Admin.Master.cs",
-              "ToolTip": "C:\\Users\\Erik\\Desktop\\UniGrub-main\\UniGrub-main\\Admin.Master.cs",
-              "RelativeToolTip": "Admin.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:10:41.572Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "adobo.css",
+              "DocumentMoniker": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\UniGrub\\css\\adobo.css",
+              "RelativeDocumentMoniker": "css\\adobo.css",
+              "ToolTip": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\UniGrub\\css\\adobo.css",
+              "RelativeToolTip": "css\\adobo.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T17:14:17.049Z"
             }
           ]
         }

@@ -99,6 +99,13 @@
 
       <img class="unigrub-1-icon" alt="" src="./assets/public/unigrub-1@2x.png" />
     </div>
+      <div class="header">
+  Video tutorial on how to cook Adobo:
+</div>
+      <!-- Embedding YouTube Video at the bottom of the page -->
+<div class="video-container">
+  <iframe width="1580" height="975" src="https://www.youtube.com/embed/BWo6MmW91Z0?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   </body>
 </html>
 
