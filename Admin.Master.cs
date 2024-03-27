@@ -10,13 +10,6 @@ namespace UniGrub
         }
         protected void btnAddRecipe_Click(object sender, EventArgs e)
         {
-            // Get values from form controls
-            string recipeName = txtRecipeName.Text;
-            string ingredients = txtIngredients.Text;
-            string steps = txtSteps.Text;
-            int servings = Convert.ToInt32(txtServings.Text);
-
-            // Add recipe button logic
             Response.Redirect("~/AddRecipe.aspx"); // Redirect to the Add Recipe page
         }
 

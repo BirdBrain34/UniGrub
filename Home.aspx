@@ -82,6 +82,9 @@
           <p>Prep : 15min | Cook : 5min</p>
         </a>
         <!-- end of single recipe -->
+            <div id="recipesList" class="recipes-list">
+            <!-- Recipe links will be dynamically generated here -->
+        </div>
       </div>
       <!-- end of recipes list -->
     </section>
