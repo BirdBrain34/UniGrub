@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\Github repositories\\UniGrub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|d:\\github repositories\\unigrub\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|d:\\github repositories\\unigrub\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|d:\\github repositories\\unigrub\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|d:\\github repositories\\unigrub\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|d:\\github repositories\\unigrub\\pancit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:pancit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|d:\\github repositories\\unigrub\\css\\pancit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{981EACED-5F00-4781-B919-A52492C030A5}|UniGrub.csproj|solutionrelative:css\\pancit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +18,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Admin.Master",
-              "DocumentMoniker": "D:\\Github repositories\\UniGrub\\Admin.Master",
-              "RelativeDocumentMoniker": "Admin.Master",
-              "ToolTip": "D:\\Github repositories\\UniGrub\\Admin.Master",
-              "RelativeToolTip": "Admin.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-27T22:51:56.164Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Admin.aspx",
-              "DocumentMoniker": "D:\\Github repositories\\UniGrub\\Admin.aspx",
-              "RelativeDocumentMoniker": "Admin.aspx",
-              "ToolTip": "D:\\Github repositories\\UniGrub\\Admin.aspx",
-              "RelativeToolTip": "Admin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-27T22:35:53.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Home.aspx",
               "DocumentMoniker": "D:\\Github repositories\\UniGrub\\Home.aspx",
               "RelativeDocumentMoniker": "Home.aspx",
@@ -77,45 +31,24 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-03-27T17:38:34.262Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "main.css",
               "DocumentMoniker": "D:\\Github repositories\\UniGrub\\css\\main.css",
               "RelativeDocumentMoniker": "css\\main.css",
-              "ToolTip": "D:\\Github repositories\\UniGrub\\css\\main.css",
-              "RelativeToolTip": "css\\main.css",
-              "ViewState": "AQIAAC8BAAAAAAAAAAAtwEUBAAAUAAAA",
+              "ToolTip": "D:\\Github repositories\\UniGrub\\css\\main.css*",
+              "RelativeToolTip": "css\\main.css*",
+              "ViewState": "AQIAAAABAAAAAAAAAAAtwA4BAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-27T19:31:17.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "pancit.css",
-              "DocumentMoniker": "D:\\Github repositories\\UniGrub\\css\\pancit.css",
-              "RelativeDocumentMoniker": "css\\pancit.css",
-              "ToolTip": "D:\\Github repositories\\UniGrub\\css\\pancit.css",
-              "RelativeToolTip": "css\\pancit.css",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAtwF4AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-27T19:26:34.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "pancit.aspx",
-              "DocumentMoniker": "D:\\Github repositories\\UniGrub\\pancit.aspx",
-              "RelativeDocumentMoniker": "pancit.aspx",
-              "ToolTip": "D:\\Github repositories\\UniGrub\\pancit.aspx",
-              "RelativeToolTip": "pancit.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-27T19:22:45.37Z",
               "EditorCaption": ""
             }
           ]
