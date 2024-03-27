@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.Master.cs" Inherits="UniGrub.AdminMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <!-- Navigation buttons -->
+            <asp:Button ID="btnAddRecipe" runat="server" Text="Add Recipe" OnClick="btnAddRecipe_Click" />
+            <asp:Button ID="btnEditRecipe" runat="server" Text="Edit Recipe" OnClick="btnEditRecipe_Click" />
+            <asp:Button ID="btnDeleteRecipe" runat="server" Text="Delete Recipe" OnClick="btnDeleteRecipe_Click" />
+
+            <!-- Content placeholder for the individual pages -->
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
