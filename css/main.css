@@ -287,9 +287,9 @@ Navbar
     align-items: center;
 }
 
-    .nav-header img {
-        width: 200px;
-    }
+.nav-header img {
+    width: 200px;
+}
 
 .nav-logo {
     display: flex;
@@ -300,9 +300,9 @@ Navbar
     padding: 0.15rem 0.75rem;
 }
 
-    .nav-btn i {
-        font-size: 1.25rem;
-    }
+.nav-btn i {
+    font-size: 1.25rem;
+}
 
 .nav-links {
     height: 0;
@@ -328,9 +328,9 @@ Navbar
     transition: var(--transition);
 }
 
-    .nav-link:hover {
-        color: var(--primary-500);
-    }
+.nav-link:hover {
+    color: var(--primary-500);
+}
 
 
 

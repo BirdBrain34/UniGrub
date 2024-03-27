@@ -15,7 +15,9 @@
   <nav class="navbar">
     <div class="nav-center">
       <div class="nav-header">
-        <a href="Home.aspx" class="nav-logo">UniGrub</a>
+        <a href="Home.aspx" class="nav-logo">
+            <img src="./assets/public/unigrub-3@2x.png" alt="UniGrub Logo">
+        </a>
       </div>
       <div class="nav-links">
         <a href="Home.aspx" class="nav-link">home</a>
@@ -33,7 +35,7 @@
     <header class="hero">
       <div class="hero-container">
         <div class="hero-text">
-          <h1>College Cooking Recipes</h1>
+          <h1>UniGrub</h1>
           <h4>For Students on a budget</h4>
         </div>
       </div>
