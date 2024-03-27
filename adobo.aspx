@@ -13,6 +13,7 @@
     />
   </head>
   <body>
+          <form id="form1" runat="server">
     <div class="recipe-2">
       <div class="the-savory-umami-combination-parent">
         <div class="the-savory-umami-combination">
@@ -43,40 +44,19 @@
       <div class="ingredients-2-lbs-chicken-cut">
         <p class="instructions">Ingredients</p>
         <ul class="lbs-chicken-cut-into-serving">
-          <li class="knorr-chicken-cube">
-            <span>2 lbs. chicken cut into serving pieces</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>1 Knorr Chicken Cube</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>5 eggs medium size</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>¼ cup soy sauce</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>¼ cup vinegar</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>1 cup water</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>3 laurel leaves</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>2 teaspoons whole peppercorn</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>8 cloves garlic crushed</span>
-          </li>
-          <li class="knorr-chicken-cube">
-            <span>1 teaspoon sugar</span>
-          </li>
-          <li>
-            <span>3 tablespoons cooking oil</span>
-          </li>
-        </ul>
+  <li class="knorr-chicken-cube" id="liIngredient1" runat="server"><span>2 lbs. chicken cut into serving pieces</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient2" runat="server"><span>1 Knorr Chicken Cube</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient3" runat="server"><span>5 eggs medium size</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient4" runat="server"><span>¼ cup soy sauce</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient5" runat="server"><span>¼ cup vinegar</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient6" runat="server"><span>1 cup water</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient7" runat="server"><span>3 laurel leaves</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient8" runat="server"><span>2 teaspoons whole peppercorn</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient9" runat="server"><span>8 cloves garlic crushed</span></li>
+  <li class="knorr-chicken-cube" id="liIngredient10" runat="server"><span>1 teaspoon sugar</span></li>
+  <li><span>3 tablespoons cooking oil</span></li>
+</ul>
+
       </div>
       <div class="prep-14-minutes-container">
         <p class="prep-14-minutes">Prep: 14 minutes</p>
@@ -161,5 +141,22 @@
       <img class="unigrub-2-icon" alt="" src="./assets/public/unigrub-1@2x.png" />
 
     </div>
+              <div> Select your price of budget:      
+  </div>
+<asp:RadioButton ID="RadioButton1" runat="server" Text="Cheap" GroupName="AdoboBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged" />
+<asp:RadioButton ID="RadioButton2" runat="server" Text="Regular" GroupName="AdoboBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged" />
+<asp:RadioButton ID="RadioButton3" runat="server" Text="Expensive" GroupName="AdoboBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged"/>
+
+    <p>
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click1" Text="Selected Budget" />
+    </p>
+      </form>
+      <div class="header">
+  Video tutorial on how to cook Pancit Canton:
+</div>
+      <!-- Embedding YouTube Video at the bottom of the page -->
+<div class="video-container">
+  <iframe width="1580" height="975" src="https://www.youtube.com/embed/2KsYYmSGKOc?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   </body>
 </html>

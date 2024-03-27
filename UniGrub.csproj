@@ -99,6 +99,7 @@
     <Content Include="css\adobo.css" />
     <Content Include="css\porksinigang.css" />
     <Content Include="css\pancit.css" />
+    <Content Include="EditRecipe.aspx" />
     <Content Include="Home.aspx" />
     <Content Include="pancit.aspx" />
     <Content Include="porksinigang.aspx" />
@@ -139,6 +140,13 @@
     </Compile>
     <Compile Include="beefsteak.aspx.designer.cs">
       <DependentUpon>beefsteak.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditRecipe.aspx.cs">
+      <DependentUpon>EditRecipe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditRecipe.aspx.designer.cs">
+      <DependentUpon>EditRecipe.aspx</DependentUpon>
     </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>

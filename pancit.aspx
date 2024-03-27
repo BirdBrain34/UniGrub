@@ -12,7 +12,8 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
     />
   </head>
-  <body>1
+  <body>
+        <form id="form1" runat="server">
     <div class="recipe-4">
       <div class="recipe-4-child"></div>
       <div class="pancit-canton-it">
@@ -31,85 +32,24 @@
           <span class="span">Ingredients</span>
         </p>
         <ul class="grams-flour-stick-noodles-4-ou">
-          <li class="grams-flour-stick-noodles">
-            <span class="span">▢</span>
-            <span>250 grams flour stick noodles </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>4 ounces pork thinly sliced </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>1 piece Chinese sausage sliced </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>1 piece  </span>
-            <a
-              class="onion"
-              href="https://panlasangpinoy.com/onion/"
-              target="_blank"
-            >
-              <span>
-                <span class="onion1">onion</span>
-              </span>
-            </a>
-            <span> sliced </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>1 teaspoon  </span>
-            <a
-              class="onion"
-              href="https://panlasangpinoy.com/what-is-garlic/"
-              target="_blank"
-            >
-              <span>
-                <span class="onion1">garlic</span>
-              </span>
-            </a>
-            <span> minced </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>8 to 10 pieces shrimp shell removed </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>10 to 12 pieces snap peas </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>3/4 cup carrot julienne </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>1 piece cabbage small, chopped </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>1 1/2 cups chicken broth </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>1 tablespoon oyster sauce opional </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>3 tablespoons  </span>
-            <a
-              class="onion"
-              href="https://panlasangpinoy.com/soy-sauce/"
-              target="_blank"
-            >
-              <span>
-                <span class="onion1">soy sauce</span>
-              </span>
-            </a>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>3/4 cup water </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>1/2 cup flat leaf parsley chopped </span>
-          </li>
-          <li class="grams-flour-stick-noodles">
-            <span>3 tablespoons cooking oil </span>
-          </li>
-          <li>
-            <span>Salt and pepper to taste </span>
-          </li>
-        </ul>
+    <li id="liIngredient1" runat="server"><span>250 grams flour stick noodles </span></li>
+    <li id="liIngredient2" runat="server"><span>4 ounces pork thinly sliced </span></li>
+    <li id="liIngredient3" runat="server"><span>1 piece Chinese sausage sliced </span></li>
+    <li id="liIngredient4" runat="server"><span>1 piece onion sliced </span></li>
+    <li id="liIngredient5" runat="server"><span>1 teaspoon garlic minced </span></li>
+    <li id="liIngredient6" runat="server"><span>1 8 to 10 pieces shrimp shell removed</span></li>
+    <li id="liIngredient7" runat="server"><span>10 to 12 pieces snap peas </span></li>
+    <li id="liIngredient8" runat="server"><span>3/4 cup carrot julienne </span></li>
+    <li id="liIngredient9" runat="server"><span>1 piece cabbage small, chopped </span></li>
+    <li id="liIngredient10" runat="server"><span>1 1/2 cups chicken broth </span></li>
+    <li id="liIngredient11" runat="server"><span>1 tablespoon oyster sauce optional </span></li>
+    <li id="liIngredient12" runat="server"><span>3 tablespoons soy sauce </span></li>
+    <li id="liIngredient13" runat="server"><span>3/4 cup water </span></li>
+    <li id="liIngredient14" runat="server"><span>1/2 cup flat leaf parsley chopped </span></li>
+    <li id="liIngredient15" runat="server"><span>3 tablespoons cooking oil </span></li>
+    <li><span>Salt and pepper to taste </span></li>
+</ul>
+
       </div>
       <div class="instructions-place-2-container">
         <p class="instructions2">Instructions</p>
@@ -191,6 +131,20 @@
 
       <img class="unigrub-4-icon" alt="" src="./assets/public/unigrub-3@2x.png" />
     </div>
+        <div> Select your price of budget:      
+      </div>
+    <asp:RadioButton ID="RadioButton1" runat="server" Text="Cheap" GroupName="PancitBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged" />
+    <asp:RadioButton ID="RadioButton2" runat="server" Text="Regular" GroupName="PancitBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged" />
+    <asp:RadioButton ID="RadioButton3" runat="server" Text="Expensive" GroupName="PancitBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged"/>
+
+        <p>
+            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click1" Text="Selected Budget" />
+        </p>
+        </form>
+      <!-- Embedding YouTube Video at the bottom of the page -->
+<div class="video-container">
+  <iframe width="1580" height="975" src="https://www.youtube.com/embed/7oUYagLDNx0?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   </body>
 </html>
 

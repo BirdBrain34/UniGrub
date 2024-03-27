@@ -13,6 +13,7 @@
     />
   </head>
   <body>
+          <form id="form1" runat="server">
     <div class="recipe-3">
       <div class="recipe-3-child"></div>
       <img class="image-16-icon" alt="" src="./assets/public/image-16@2x.png" />
@@ -46,43 +47,20 @@
       <div class="ingredients-2-lbs-pork-container">
         <p class="ingredients2">Ingredients</p>
         <ul class="lbs-pork-belly-1-lb-young-ta">
-          <li class="lbs-pork-belly">
-            <span>2 lbs. pork belly</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>1 lb. young tamarind </span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>1 bunch water spinach chopped</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>8 pieces string beans cut into 2-inch pieces</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>2 pieces eggplants sliced</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>1 piece daikon radish</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>8 pieces okras</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>2 pieces tomatoes sliced into wedges</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>2 pieces long green pepper</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>1 piece onion sliced into wedges</span>
-          </li>
-          <li class="lbs-pork-belly">
-            <span>2 quarts water</span>
-          </li>
-          <li>
-            <span>Fish sauce and ground black pepper to taste</span>
-          </li>
-        </ul>
+  <li class="lbs-pork-belly" id="liIngredient1" runat="server"><span>2 lbs. pork belly</span></li>
+  <li class="lbs-pork-belly" id="liIngredient2" runat="server"><span>1 lb. young tamarind </span></li>
+  <li class="lbs-pork-belly" id="liIngredient3" runat="server"><span>1 bunch water spinach chopped</span></li>
+  <li class="lbs-pork-belly" id="liIngredient4" runat="server"><span>8 pieces string beans cut into 2-inch pieces</span></li>
+  <li class="lbs-pork-belly" id="liIngredient5" runat="server"><span>2 pieces eggplants sliced</span></li>
+  <li class="lbs-pork-belly" id="liIngredient6" runat="server"><span>1 piece daikon radish</span></li>
+  <li class="lbs-pork-belly" id="liIngredient7" runat="server"><span>8 pieces okras</span></li>
+  <li class="lbs-pork-belly" id="liIngredient8" runat="server"><span>2 pieces tomatoes sliced into wedges</span></li>
+  <li class="lbs-pork-belly" id="liIngredient9" runat="server"><span>2 pieces long green pepper</span></li>
+  <li class="lbs-pork-belly" id="liIngredient10" runat="server"><span>1 piece onion sliced into wedges</span></li>
+  <li class="lbs-pork-belly" id="liIngredient11" runat="server"><span>2 quarts water</span></li>
+  <li><span>Fish sauce and ground black pepper to taste</span></li>
+</ul>
+
       </div>
       <div class="instructions-combine-chicken-container1">
         <p class="ingredients2">Instructions</p>
@@ -168,5 +146,20 @@
 
       <img class="unigrub-3-icon" alt="" src="./assets/public/unigrub-3@2x.png" />
     </div>
+          <div> Select your price of budget:      
+  </div>
+<asp:RadioButton ID="RadioButton1" runat="server" Text="Cheap" GroupName="PorkSinigangBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged" />
+<asp:RadioButton ID="RadioButton2" runat="server" Text="Regular" GroupName="PorkSinigangBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged" />
+<asp:RadioButton ID="RadioButton3" runat="server" Text="Expensive" GroupName="PorkSinigangBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged"/>
+
+    <p>
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click1" Text="Selected Budget" />
+    </p>
+          </form>
+
+      <!-- Embedding YouTube Video at the bottom of the page -->
+<div class="video-container">
+  <iframe width="1580" height="975" src="https://www.youtube.com/embed/t-beBtUZz3E?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   </body>
 </html>

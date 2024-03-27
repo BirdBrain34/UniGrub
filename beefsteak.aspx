@@ -13,6 +13,7 @@
     />
   </head>
   <body>
+          <form id="form1" runat="server">
     <div class="recipe-1">
       <div class="recipe-1-child"></div>
       <img class="image-27-icon" alt="" src="./assets/public/image-27@2x.png" />
@@ -32,19 +33,17 @@
         <div class="ingredients">Ingredients</div>
         <div class="pounds-new-york-strip-container">
           <ul class="pounds-new-york-strip-steak-s">
-            <li class="pounds-new-york-strip">
-              4 pounds New York strip steak, sliced thin
-            </li>
-            <li class="pounds-new-york-strip">1 lemon, juiced</li>
-            <li class="pounds-new-york-strip">3 tablespoons soy sauce</li>
-            <li class="pounds-new-york-strip">1 teaspoon white sugar</li>
-            <li class="pounds-new-york-strip">salt and pepper to taste</li>
-            <li class="pounds-new-york-strip">1 tablespoon cornstarch</li>
-            <li class="pounds-new-york-strip">¼ cup vegetable oil</li>
-            <li class="pounds-new-york-strip">3 tablespoons olive oil</li>
-            <li class="pounds-new-york-strip">1 onion, chopped</li>
-            <li>2 cloves garlic, chopped</li>
-          </ul>
+    <li class="pounds-new-york-strip" id="liIngredient1" runat="server"><span>4 pounds New York strip steak, sliced thin</span></li>
+    <li class="pounds-new-york-strip" id="liIngredient2" runat="server"><span>1 lemon, juiced</span></li>
+    <li class="pounds-new-york-strip" id="liIngredient3" runat="server"><span>3 tablespoons soy sauce</span></li>
+    <li class="pounds-new-york-strip" id="liIngredient4" runat="server"><span>1 teaspoon white sugar</span></li>
+    <li class="pounds-new-york-strip" id="liIngredient5" runat="server"><span>salt and pepper to taste</span></li>
+    <li class="pounds-new-york-strip" id="liIngredient6" runat="server"><span>1 tablespoon cornstarch</span></li>
+    <li class="pounds-new-york-strip" id="liIngredient7" runat="server"><span>¼ cup vegetable oil</span></li>
+    <li class="pounds-new-york-strip" id="liIngredient8" runat="server"><span>3 tablespoons olive oil</span></li>
+    <li class="pounds-new-york-strip" id="liIngredient9" runat="server"><span>1 onion, chopped</span></li>
+    <li id="liIngredient10" runat="server"><span>2 cloves garlic, chopped</span></li>
+  </ul>
         </div>
       </div>
       <div class="procedure-parent">
@@ -99,6 +98,20 @@
 
       <img class="unigrub-1-icon" alt="" src="./assets/public/unigrub-1@2x.png" />
     </div>
+                        <div> Select your price of budget:      
+  </div>
+<asp:RadioButton ID="RadioButton1" runat="server" Text="Cheap" GroupName="BeefSteakBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged" />
+<asp:RadioButton ID="RadioButton2" runat="server" Text="Regular" GroupName="BeefSteakBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged" />
+<asp:RadioButton ID="RadioButton3" runat="server" Text="Expensive" GroupName="BeefSteakBudget" AutoPostBack="true" OnCheckedChanged="RadioButton_CheckedChanged"/>
+
+    <p>
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click1" Text="Selected Budget" />
+    </p>
+          </form>
+      <!-- Embedding YouTube Video at the bottom of the page -->
+<div class="video-container">
+  <iframe width="1580" height="975" src="https://www.youtube.com/embed/BWo6MmW91Z0?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   </body>
 </html>
 
