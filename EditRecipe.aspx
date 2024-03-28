@@ -104,7 +104,6 @@
 
             // Here you can make an AJAX request to save the modified recipe data to your database
         }
-
     </script>
 </body>
 </html>
